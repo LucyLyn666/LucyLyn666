@@ -1,4 +1,8 @@
-### Hi there 👋
+### 032002417 林卢希 计算机四班
+比较自闭
+喜欢一切新鲜的事物
+想要玩的开心学的好
+掌握的技能：目前学习了c语言的基础，接触了java，python的一点点皮毛，有一个强大的内心。 👋
 
 <!--
 **LucyLyn666/LucyLyn666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
